@@ -72,6 +72,6 @@ if __name__ == "__main__":
     update_cat_age("Barsik", 4)
     add_feature("Barsik", "спить на ноутбуці")
     get_all_cats()
-    # delete_cat_by_name("Barsik")
-    # delete_all_cats()
+    delete_cat_by_name("Barsik")
+    delete_all_cats()
     pass
